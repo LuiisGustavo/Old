@@ -1,2 +1,0 @@
-# Plano-de-Teste
-teste
